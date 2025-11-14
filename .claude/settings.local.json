@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh pr diff:*)",
+      "Bash(gh pr view:*)",
+      "Bash(manim:*)",
+      "Bash(cat:*)",
+      "Bash(git lfs:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git log:*)",
+      "Bash(python:*)"
+    ],
+    "deny": []
+  }
+}
