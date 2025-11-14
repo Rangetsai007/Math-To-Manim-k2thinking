@@ -1,13 +1,12 @@
 # Math-To-Manim
 
+> **📌 Fork 说明**：本项目 fork 自 [HarleyCoops/Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim)，是原项目的个人学习和实验版本。
+
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![FFmpeg Required](https://img.shields.io/badge/FFmpeg-required-red)](https://ffmpeg.org/)
 [![Manim Version](https://img.shields.io/badge/manim-v0.19.0-orange)](https://www.manim.community/)
 [![Claude Sonnet 4.5](https://img.shields.io/badge/Claude-Sonnet%204.5-blueviolet)](https://www.anthropic.com)
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=HarleyCoops/Math-To-Manim&type=date&legend=top-left)](https://www.star-history.com/#HarleyCoops/Math-To-Manim&type=date&legend=top-left)
 
 ---
 
